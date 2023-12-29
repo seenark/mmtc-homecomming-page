@@ -1,0 +1,1 @@
+import{j as l}from"./q-ThAKwGls.js";const e=()=>l("div",null,{class:"flex h-[calc(100vh-100px)] w-screen items-center justify-center"},l("div",null,null,[l("h3",null,{class:"text-4xl font-bold"},"Welcome back",3,null),l("p",null,{class:"py-4 text-2xl"},"ยินดีต้อนรับกลับบ้าน",3,null)],3,null),3,"6I_0");export{e as s_DHdnHMOHejQ};
