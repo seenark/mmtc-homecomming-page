@@ -1,1 +1,0 @@
-import{j as l}from"./q-ThAKwGls.js";const e=()=>l("div",null,null,l("footer",null,{class:"flex items-center justify-center py-8 text-center"},l("h5",null,null,["Made with ❤️ for MMTC ",l("br",null,null,null,3,null),"by อุ้ม อุ้ม #34"],3,null),3,null),3,"0U_0");export{e as s_SZhmH5lrC28};
